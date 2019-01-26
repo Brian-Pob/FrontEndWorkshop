@@ -1,0 +1,17 @@
+p {
+    font-size: 50px;
+}
+
+.red-text {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    color: darkred;
+}
+
+#my-button {
+    background-color: gray;
+    color: white;
+    border: none;
+    text-decoration: none;
+    padding: 15px 32px;
+}
