@@ -2,9 +2,17 @@ p {
     font-size: 50px;
 }
 
-.red-text {
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 25px;
+.big-red {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkred;
+}
+
+.small-red {
+    font-size: 10px;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
     color: darkred;
 }
 
