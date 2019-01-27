@@ -24,12 +24,19 @@ p {
     padding: 15px 32px;
 }
 
-th, td{
-         /* width style   color */
+/* th, td{
     border: 1px   solid black;
 }
 
 table {
     border-collapse: collapse;
     width: 33%;
+} */
+
+.coltest1 {
+    background-color: lavenderblush;
+}
+
+.coltest2 {
+    background-color: lightskyblue;
 }
