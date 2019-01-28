@@ -8,3 +8,5 @@ Link to the slides used: https://tinyurl.com/y8y7swab
 Link to the Codeshare: https://tinyurl.com/FEWCODESHARE
 
 Download Bootstrap: https://github.com/twbs/bootstrap/releases/download/v4.2.1/bootstrap-4.2.1-dist.zip
+
+Link to Disqus slide: https://docs.google.com/presentation/d/1r5h7Q1WDA9aiSDgzmuyaUDhJRpuQ8o7usq9Rv06F_aE/edit?usp=sharing
