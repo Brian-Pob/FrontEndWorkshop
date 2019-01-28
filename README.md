@@ -6,3 +6,5 @@ Link to this Repo: https://tinyurl.com/COMETFEW
 Link to the slides used: https://tinyurl.com/y8y7swab
 
 Link to the Codeshare: https://tinyurl.com/FEWCODESHARE
+
+Download Bootstrap: https://github.com/twbs/bootstrap/releases/download/v4.2.1/bootstrap-4.2.1-dist.zip
